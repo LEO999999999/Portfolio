@@ -10,7 +10,7 @@ body,html{
     line-height: 1.8em;
     color: #094b65;
     background: #c3dceb; 
-    overflow-x: hidden; 
+    /* overflow-x: hidden;  */
     /* when i use this is hides all them but it prevent the video from showing */
     
 }
